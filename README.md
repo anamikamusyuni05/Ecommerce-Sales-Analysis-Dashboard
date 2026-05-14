@@ -10,7 +10,7 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 ## Dashboard Features
 ---
 
-### KPIs (Key Performance Indicators)
+#### KPIs (Key Performance Indicators)
 
 - Total Sales  
 - Total Profit  
@@ -19,7 +19,7 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 - Year-over-Year (YoY) Growth Analysis
 ---
 
-### Interactive Visualizations
+#### Interactive Visualizations
 - Category-wise Sales Share  
 - Category-wise Order Distribution  
 - Top 5 Subcategories by Sales  
@@ -28,14 +28,14 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 - Category-wise Discount Analysis
 --- 
 
-### Filters & Insights
+#### Filters & Insights
 - Region Filter  
 - Segment Filter  
 - Year Filter  
 - Interactive slicers for easy data exploration
 ---
 
-### Tools & Techniques Used
+#### Tools & Techniques Used
 - Microsoft Excel  
 - Pivot Tables  
 - Pivot Charts  
@@ -45,14 +45,14 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 - Data Visualization
 ---
 
-### Project Highlights
+#### Project Highlights
 - Built an interactive and user-friendly dashboard  
 - Analyzed sales trends and business performance  
 - Converted raw data into meaningful insights  
 - Used visual elements for better decision-making
 ---
 
-## Author
+### Author
 
 👩‍💻 **Anamika Musyuni**     
 🔗 GitHub: [anamikamusyuni05](https://github.com/anamikamusyuni05)
