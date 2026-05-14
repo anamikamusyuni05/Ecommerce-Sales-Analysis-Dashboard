@@ -25,4 +25,23 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 - Region Filter  
 - Segment Filter  
 - Year Filter  
-- Interactive slicers for easy data exploration  
+- Interactive slicers for easy data exploration
+
+### Tools & Techniques Used
+- Microsoft Excel  
+- Pivot Tables  
+- Pivot Charts  
+- Slicers  
+- Data Cleaning  
+- Conditional Formatting  
+- Data Visualization  
+
+### Project Highlights
+- Built an interactive and user-friendly dashboard  
+- Analyzed sales trends and business performance  
+- Converted raw data into meaningful insights  
+- Used visual elements for better decision-making
+
+### Author
+- Anamika Musyuni
+- Github : 
