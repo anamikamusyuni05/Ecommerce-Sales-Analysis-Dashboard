@@ -47,4 +47,4 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 👩‍💻 **Anamika Musyuni**  
 📊 Excel   
 🔗 GitHub: [anamikamusyuni05](https://github.com/anamikamusyuni05?utm_source=chatgpt.com)
-⭐ If you found this project interesting, feel free to explore and give feedback.
+- ⭐ If you found this project interesting, feel free to explore and give feedback.
