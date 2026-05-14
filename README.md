@@ -42,7 +42,7 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 - Converted raw data into meaningful insights  
 - Used visual elements for better decision-making
 
-## Connect With Me
+## Author
 
 👩‍💻 **Anamika Musyuni**  
 📊 Excel   
