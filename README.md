@@ -3,7 +3,7 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 
 ---
 
-# Interactive Ecommerce-Sales-Analysis-Dashboard
+## Interactive Ecommerce-Sales-Analysis-Dashboard
 <img width="1853" height="877" alt="Dashboard_image" src="https://github.com/user-attachments/assets/5b8e1fb2-6422-45be-bdab-36698b7d42ef" />
 
 
