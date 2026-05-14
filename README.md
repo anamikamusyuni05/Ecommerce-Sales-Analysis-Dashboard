@@ -44,8 +44,7 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 
 ## Author
 
-👩‍💻 **Anamika Musyuni**  
-📊 Excel   
+👩‍💻 **Anamika Musyuni**     
 🔗 GitHub: [anamikamusyuni05](https://github.com/anamikamusyuni05)
 
 ⭐ If you found this project interesting, feel free to explore and give feedback.
