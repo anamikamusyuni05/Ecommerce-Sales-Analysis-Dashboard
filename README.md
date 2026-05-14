@@ -42,6 +42,8 @@ This project contains an interactive Excel dashboard designed to analyze ecommer
 - Converted raw data into meaningful insights  
 - Used visual elements for better decision-making
 
-### Author
-- Anamika Musyuni
-- Github : 
+## Connect With Me
+
+👩‍💻 **Anamika Musyuni**  
+📊 Excel   
+🔗 GitHub: [anamikamusyuni05](https://github.com/anamikamusyuni05?utm_source=chatgpt.com)
